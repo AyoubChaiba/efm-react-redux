@@ -1,0 +1,18 @@
+{
+    "libers" : [
+        {
+            "ISBN": 123456789,
+            "Titre": "jacek",
+            "Auteur": "Frank Herbert",
+            "Prix": 250,
+            "Genre": "Science Fiction"
+        },
+        {
+            "ISBN": 143457789,
+            "Titre": "Dune",
+            "Auteur": "test bert",
+            "Prix": 270,
+            "Genre": "Romance"
+        }
+    ]
+}
